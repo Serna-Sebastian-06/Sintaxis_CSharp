@@ -1,0 +1,15 @@
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\bin\Debug\net10.0\tiposDeDatos.exe
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\bin\Debug\net10.0\tiposDeDatos.deps.json
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\bin\Debug\net10.0\tiposDeDatos.runtimeconfig.json
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\bin\Debug\net10.0\tiposDeDatos.dll
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\bin\Debug\net10.0\tiposDeDatos.pdb
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.AssemblyInfoInputs.cache
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.AssemblyInfo.cs
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.csproj.CoreCompileInputs.cache
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.sourcelink.json
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.dll
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\refint\tiposDeDatos.dll
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.pdb
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\tiposDeDatos.genruntimeconfig.cache
+c:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\tiposDeDatos\obj\Debug\net10.0\ref\tiposDeDatos.dll

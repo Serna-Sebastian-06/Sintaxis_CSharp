@@ -1,0 +1,11 @@
+﻿int age = 25;
+float height = 1.75f;
+bool is_student = true;
+string name = "Ana";
+char grade = 'A';
+
+Console.WriteLine($"La edad es: {age}");
+Console.WriteLine($"La altura es: {height}");
+Console.WriteLine($"¿Es estudiante?: {is_student}");
+Console.WriteLine($"Su nombre es: {name}");
+Console.WriteLine($"la calificación que tiene es un: {grade}");

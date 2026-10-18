@@ -1,0 +1,15 @@
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\bin\Debug\net10.0\operadores.exe
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\bin\Debug\net10.0\operadores.deps.json
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\bin\Debug\net10.0\operadores.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\bin\Debug\net10.0\operadores.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\bin\Debug\net10.0\operadores.pdb
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.sourcelink.json
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\refint\operadores.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.pdb
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\operadores.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Retos\operadores\obj\Debug\net10.0\ref\operadores.dll
