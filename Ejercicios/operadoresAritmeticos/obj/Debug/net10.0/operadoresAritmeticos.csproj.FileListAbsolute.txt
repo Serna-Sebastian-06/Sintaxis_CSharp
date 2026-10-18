@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\bin\Debug\net10.0\operadoresAritmeticos.exe
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\bin\Debug\net10.0\operadoresAritmeticos.deps.json
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\bin\Debug\net10.0\operadoresAritmeticos.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\bin\Debug\net10.0\operadoresAritmeticos.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\bin\Debug\net10.0\operadoresAritmeticos.pdb
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\operadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\operadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\operadoresAritmeticos.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\operadoresAritmeticos.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\refint\operadoresAritmeticos.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\operadoresAritmeticos.pdb
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\operadoresAritmeticos.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\operadoresAritmeticos\obj\Debug\net10.0\ref\operadoresAritmeticos.dll

@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\bin\Debug\net10.0\tiposDeVariables.exe
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\bin\Debug\net10.0\tiposDeVariables.deps.json
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\bin\Debug\net10.0\tiposDeVariables.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\bin\Debug\net10.0\tiposDeVariables.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\bin\Debug\net10.0\tiposDeVariables.pdb
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\tiposDeVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\tiposDeVariables.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\tiposDeVariables.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\tiposDeVariables.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\tiposDeVariables.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\refint\tiposDeVariables.dll
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\tiposDeVariables.pdb
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\tiposDeVariables.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documentos\C#\Sintaxis_CSharp\Ejercicios\tiposDeVariables\obj\Debug\net10.0\ref\tiposDeVariables.dll
